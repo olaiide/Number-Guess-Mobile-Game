@@ -3,7 +3,7 @@
     "name": "Number-Guess-Mobile-Game",
     "slug": "Number-Guess-Mobile-Game",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
